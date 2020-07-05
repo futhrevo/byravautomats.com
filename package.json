@@ -1,14 +1,15 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "hedera-byrav-automats",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "Hedera helps your business to get online easier and faster",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Rakesh Kalyankar <k.rakeshlal@gmail.com>",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.10.1",
     "bootstrap": "^4.3.1",
     "gatsby": "^2.13.51",
     "gatsby-image": "^2.2.8",
+    "gatsby-plugin-cname": "^1.0.0",
     "gatsby-plugin-manifest": "^2.2.4",
     "gatsby-plugin-offline": "^2.2.4",
     "gatsby-plugin-react-helmet": "^3.1.3",
@@ -29,7 +30,7 @@
     "prettier": "^1.18.2"
   },
   "keywords": [
-    "gatsby"
+    "hedera"
   ],
   "license": "MIT",
   "scripts": {

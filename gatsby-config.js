@@ -1,9 +1,10 @@
 module.exports = {
   pathPrefix: `/gatsby-creative`,
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    siteUrl: 'https://byravautomats.com',
+    title: `Byrava Automats`,
+    description: `ISO 9001:2015 Certified Manufacturers and Suppliers of Precision Machined & C.N.C Turned Components for Automotive & Electrical Applications`,
+    author: `rakesh@hedera.in`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -37,6 +38,7 @@ module.exports = {
         }
       }
     },
+    'gatsby-plugin-cname',
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,

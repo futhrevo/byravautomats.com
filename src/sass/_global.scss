@@ -37,7 +37,7 @@ hr.light {
 
 // Page section padding
 .page-section {
-	padding: 8rem 0;
+	padding: 6rem 0;
 }
 
 // Modal
@@ -47,4 +47,8 @@ hr.light {
 
 .modal-backdrop.show {
 	opacity: 0.8;
+}
+
+.table-sm {
+	font-size: small;
 }
