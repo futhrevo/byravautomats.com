@@ -3,7 +3,7 @@ import { machines } from '../data';
 
 const Machinery = () => {
   return (
-    <div className="card mx-auto shadow bg-info text-white col col-sm-12 col-md-7 mt-3">
+    <div className="card mx-auto shadow bg-info text-white col-xs-12 col-md-7 mt-3">
       <div className="card-body">
         <h6 class="card-title">List of Machinery in Manufacturing unit</h6>
         <div class="table-responsive">

@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: `/gatsby-creative`,
+  pathPrefix: `/`,
   siteMetadata: {
     siteUrl: 'https://byravautomats.com',
     title: `Byrava Automats`,

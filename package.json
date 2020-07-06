@@ -27,19 +27,20 @@
     "react-scrollspy": "^3.4.0"
   },
   "devDependencies": {
+    "gh-pages": "^3.1.0",
     "prettier": "^1.18.2"
   },
   "keywords": [
     "hedera"
   ],
-  "license": "MIT",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\"",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   },
   "repository": {
     "type": "git",
