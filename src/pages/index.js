@@ -158,7 +158,7 @@ export default class IndexPage extends React.Component {
                 <h2 className="mt-0">Let's Get In Touch!</h2>
                 <hr className="divider my-4" />
                 <p className="text-muted mb-5">Ready to start your next project with us? Give us a call or send us an
-                email
+                  email
                   and we will get back to you as soon as possible!</p>
               </div>
             </div>
@@ -170,8 +170,8 @@ export default class IndexPage extends React.Component {
               </div>
               <div className="col-lg-4 text-center mb-5 mb-lg-0">
                 <i className="fas fa-phone fa-3x mb-3 text-muted"></i>
-                <a className="d-block text-decoration-none table-sm " href="tel:080-41268212">080 - 41268212</a>
-                <a className="d-block text-decoration-none table-sm " href="tel:7411448899">7411448899</a>
+                <a className="d-block text-decoration-none table-sm ">Chandra Shekar Reddy</a>
+                <a className="d-block text-decoration-none table-sm " href="tel:+91-9449111138">+91-9449111138</a>
               </div>
               <div className="col-lg-4 text-center">
                 <i className="fas fa-envelope fa-3x mb-3 text-muted"></i>
